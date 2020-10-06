@@ -7,7 +7,7 @@ I am a passionate software developer with over 3+ years’ experience in working
 - 🌱 I’m currently relearning  [Fullstack web development]([https://fullstackopen.com/en](https://fullstackopen.com/en)) 
 - 👯 I’m looking to collaborate on C#, JavaScript, Python and Dart projects
 - 🤔 I’m looking for help with video compression algorithm
-- 💬 Ask me about C#, JS and dart
+- 💬 Ask me about C#, JS and Dart
 - 📫 How to reach me: twitter @ChisomNwisu
 - ⚡ Fun fact: I think MS Excel is an IDE
 
