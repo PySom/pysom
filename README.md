@@ -1,5 +1,5 @@
 # Hello there 👋
-I am a passionate software developer with over 3+ years’ experience in working with backend and frontend web and mobile technologies. Fluent in English Language and ready to work and grow.
+I am a passionate software developer with over 3+ years’ experience in working with backend, frontend web and mobile technologies. Fluent in English Language and ready to work and grow.
 
 # About me
 
